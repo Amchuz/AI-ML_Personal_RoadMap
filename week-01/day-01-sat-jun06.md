@@ -36,7 +36,7 @@ Image classifier, Kaggle setup, Gradio, top-down approach. Take notes.
 
 ### My notes from this session
 ```
-(write key takeaways here)
+fastai doc - https://docs.fast.ai/
 ```
 
 ---
