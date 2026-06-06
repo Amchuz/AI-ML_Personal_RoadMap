@@ -1,0 +1,81 @@
+# Sunday, 21 June 2026 · Day 16
+
+**Week 3 · Phase 1 · Foundation**
+
+---
+
+## 🔴 11:00 am – 12:00 pm · Block 1 · DSA REVIEW
+
+**Re-solve from memory:** [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)
+NeetCode: `youtu.be/B1k_sxOSgv8`
+
+Solve without looking at your previous notes. Write the approach below.
+Can you explain it in 3 sentences to a beginner?
+
+### My solution (from memory)
+```
+```
+### 3-sentence explanation
+```
+```
+
+---
+
+## ⏸️ 12:00 – 12:20 pm · Break
+Stretch, water, breathe. 20 minutes.
+
+
+## 🔵 12:20 – 1:20 pm · Block 2 · LEARN
+**StatQuest: Logistic Regression (8 min) + Cross Entropy (15 min)**
+**Resource:** youtube.com/watch?v=yIYKR4sgzI8
+
+What cross-entropy loss actually measures. Why it works for classification.
+
+### My notes
+```
+(write key takeaways)
+```
+
+---
+
+## ⏸️ 1:20 – 2:00 pm · Lunch
+Proper rest. No screens. 40 minutes.
+
+---
+
+## 🟡 2:00 – 3:00 pm · Block 3 · BUILD
+**Build RAG chatbot in Colab**
+**Open:** colab.research.google.com
+
+Load 20 FAQ docs → FAISS vector store → retrieval chain → test retrieval.
+
+### What I built / practiced
+```
+```
+
+---
+
+## ⏸️ 3:00 – 3:20 pm · Break
+Walk outside or around PG. 20 minutes.
+
+---
+
+## 🟢 3:20 – 4:20 pm · Block 4 · PLAN + GITHUB
+1. Push all this week's work to GitHub with a commit message.
+2. Write tomorrow's problem in your notebook: **Two Sum II**
+3. What will you study next Saturday Block 2? Write it down.
+4. Did you complete this week's checklist? See [Week README](./README.md).
+
+### GitHub commit message
+```
+(paste here)
+```
+
+---
+
+## 🎉 4:20 pm onwards · Free Afternoon
+Rest completely. Family, walk, relax. Sleep by 10:30pm.
+
+---
+
+*← [Back to Week 3](./README.md)*
