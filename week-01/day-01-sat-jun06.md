@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=3OamzN90kPg
 ```
 ### Problem 2 approach
 ```
+https://www.youtube.com/watch?v=9UtInBqnCgA
 ```
 
 ---
