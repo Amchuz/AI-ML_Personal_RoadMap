@@ -13,6 +13,8 @@ Set a 30 min timer per problem. No hints. Watch NeetCode explanation after.
 
 ### Problem 1 approach
 ```
+https://neetcode.io/problems/duplicate-integer/question
+https://www.youtube.com/watch?v=3OamzN90kPg
 ```
 ### Problem 2 approach
 ```
