@@ -63,6 +63,7 @@ pip install langchain. Chain 1: prompt→LLM→output. Chain 2: add memory.
 
 ### What I built / practiced
 ```
+refer the colab details here: https://github.com/Amchuz/AI-ML_Personal_RoadMap/blob/main/week-01/day-01-and-02.ipynb
 ```
 
 ---
@@ -78,12 +79,6 @@ Walk outside or around PG. 20 minutes.
 3. What will you study next Saturday Block 2? Write it down.
 4. Did you complete this week's checklist? See [Week README](./README.md).
 
-### GitHub commit message
-```
-(paste here)
-```
-
----
 
 ## 🎉 4:20 pm onwards · Free Afternoon
 Rest completely. Family, walk, relax. Sleep by 10:30pm.
