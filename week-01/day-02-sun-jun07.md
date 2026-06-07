@@ -14,11 +14,23 @@ Can you explain it in 3 sentences to a beginner?
 
 ### My solution (from memory)
 ```
+class Solution(object):
+    def containsDuplicate(self, nums):
+        hset = set()
+        for i in nums:
+            if i in hset:
+                return True
+            hset.add(i)
+        return False
+        
 ```
 ### 3-sentence explanation
 ```
+create a hash set
+and add eahc number to the set in the while loop
+so if the number comes again, the number will already be in hashset
+so we will return it as true
 ```
-
 ---
 
 ## ⏸️ 12:00 – 12:20 pm · Break
