@@ -89,17 +89,7 @@ Stretch, water. 15 minutes.
 **Push first commit to GitHub**
 **Open:** github.com
 
-Create repo "prify-maang-journey". Push your Colab notebook. Commit: "Week 1 - fast.ai L1".
 
-### GitHub commit message used
-```
-(paste your commit message)
-```
-
-### What I learned this Saturday
-```
-(2–3 sentences)
-```
 
 ---
 
