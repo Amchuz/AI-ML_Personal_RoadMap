@@ -74,7 +74,7 @@ Create LeetCode, GitHub, HF accounts. pip install langchain. Run a basic chain.
 
 ### Progress made
 ```
-(describe what you completed)
+refer the colab details here: https://github.com/Amchuz/AI-ML_Personal_RoadMap/blob/main/week-01/day-01-and-02.ipynb
 ```
 
 ---
