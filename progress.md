@@ -3,9 +3,9 @@ Tick off each day as you complete it. One ✅ per day keeps the momentum going.
 ---
 
 ## Week 1 — Phase 1 · Foundation
-- [ ] Sat 06 Jun — DSA: Contains Duplicate + Valid Anagram  |  Sat Block 2 video
-- [ ] Sun 07 Jun — DSA review: Contains Duplicate  |  Sun Block 2 video
-- [ ] Mon 08 Jun — DSA: Contains Duplicate
+- [x] Sat 06 Jun — DSA: Contains Duplicate + Valid Anagram  |  Sat Block 2 video
+- [x] Sun 07 Jun — DSA review: Contains Duplicate  |  Sun Block 2 video
+- [x] Mon 08 Jun — DSA: Two Sum
 - [ ] Tue 09 Jun — DSA: Valid Anagram
 - [ ] Wed 10 Jun — DSA: Two Sum
 - [ ] Thu 11 Jun — DSA: Group Anagrams
