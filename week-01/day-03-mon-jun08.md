@@ -6,7 +6,7 @@
 
 ## 🔴 9:30 – 10:30 am · DSA
 
-**Problem:** [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+**Problem:** [Two Sum](https://leetcode.com/problems/two-sum/description/)
 **Pattern:** Arrays & Hashmaps
 
 ### Steps
@@ -17,13 +17,18 @@
 
 ### My Solution Approach
 ```
-(write here after solving)
+class Solution(object):
+    def twoSum(self, nums, target):
+        prevMap = {}
+        for i,n in enumerate(nums):
+            diff = target - n
+            if diff in prevMap:
+                return [prevMap[diff],i]
+            prevMap[n] = i
+        return
+        
 ```
 
-### What I learned
-```
-(write after watching the explanation)
-```
 
 ### ✅ Done? Check off in [progress.md](../progress.md)
 
