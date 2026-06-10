@@ -6,7 +6,7 @@
 
 ## 🔴 9:30 – 10:30 am · DSA
 
-**Problem:** [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+**Problem:** [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 **Pattern:** Arrays & Hashmaps
 
 ### Steps
@@ -17,12 +17,16 @@
 
 ### My Solution Approach
 ```
-(write here after solving)
-```
-
-### What I learned
-```
-(write after watching the explanation)
+class Solution(object):
+    def groupAnagrams(self, strs):
+        res = defaultdict(list)
+        for s in strs:
+            count = [0] * 26
+            for c in s:
+                count[ord(c) - ord("a")] += 1
+            res[tuple(count)].append(s)
+        return list(res.values())
+        
 ```
 
 ### ✅ Done? Check off in [progress.md](../progress.md)
