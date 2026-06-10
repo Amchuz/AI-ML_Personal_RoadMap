@@ -6,7 +6,7 @@ Tick off each day as you complete it. One ✅ per day keeps the momentum going.
 - [x] Sat 06 Jun — DSA: Contains Duplicate + Valid Anagram  |  Sat Block 2 video
 - [x] Sun 07 Jun — DSA review: Contains Duplicate  |  Sun Block 2 video
 - [x] Mon 08 Jun — DSA: Two Sum
-- [ ] Tue 09 Jun — DSA: Valid Anagram
+- [x] Tue 09 Jun — DSA: Group Anagram
 - [ ] Wed 10 Jun — DSA: Two Sum
 - [ ] Thu 11 Jun — DSA: Group Anagrams
 - [ ] Fri 12 Jun — DSA: Top K Frequent Elements
