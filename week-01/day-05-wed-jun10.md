@@ -6,7 +6,7 @@
 
 ## 🔴 9:30 – 10:30 am · DSA
 
-**Problem:** [Two Sum](https://leetcode.com/problems/two-sum)
+**Problem:** [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 **Pattern:** Arrays & Hashmaps
 
 ### Steps
@@ -17,13 +17,23 @@
 
 ### My Solution Approach
 ```
-(write here after solving)
+class Solution(object):
+    def topKFrequent(self, nums, k):
+        numCount = {}
+        freq = [[] for i in range(len(nums) + 1)]
+
+        for n in nums:
+            numCount[n] = numCount.get(n, 0) + 1
+        for num, count in numCount.items():
+            freq[count].append(num)
+        res = []
+        for i in range(len(freq)-1, 0, -1):
+            for n in freq[i]:
+                res.append(n)
+                if len(res) == k:
+                    return res
 ```
 
-### What I learned
-```
-(write after watching the explanation)
-```
 
 ### ✅ Done? Check off in [progress.md](../progress.md)
 
