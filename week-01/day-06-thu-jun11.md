@@ -9,9 +9,9 @@
 **Problem:** [Encode & Decode Strings](https://neetcode.io/problems/string-encode-and-decode)
 
 ### Steps
-1. Open NeetCode: `leetcode.com/problems/group-anagrams`
+1. Open NeetCode
 2. Set a **25 min timer** — attempt alone, no hints
-3. After timer: watch NeetCode explanation → `youtu.be/vzdNOK2oB2E`
+3. After timer: watch NeetCode explanation
 4. Write your approach in 2–3 lines below
 
 ### My Solution Approach
