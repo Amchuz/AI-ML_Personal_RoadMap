@@ -7,12 +7,11 @@
 ## 🔴 9:30 – 10:30 am · DSA
 
 **Problem:** [Two Sum](https://leetcode.com/problems/two-sum/description/)
-**Pattern:** Arrays & Hashmaps
 
 ### Steps
-1. Open LeetCode: `leetcode.com/problems/contains-duplicate`
+1. Open LeetCode
 2. Set a **25 min timer** — attempt alone, no hints
-3. After timer: watch NeetCode explanation → `youtu.be/3OamzN90kPg`
+3. After timer: watch NeetCode explanation
 4. Write your approach in 2–3 lines below
 
 ### My Solution Approach
