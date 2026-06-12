@@ -10,9 +10,9 @@
 **Pattern:** Arrays & Hashmaps
 
 ### Steps
-1. Open LeetCode: `leetcode.com/problems/valid-anagram`
+1. Open LeetCode
 2. Set a **25 min timer** — attempt alone, no hints
-3. After timer: watch NeetCode explanation → `youtu.be/9UtInBqnCgA`
+3. After timer: watch NeetCode explanation
 4. Write your approach in 2–3 lines below
 
 ### My Solution Approach
