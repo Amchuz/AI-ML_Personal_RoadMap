@@ -8,7 +8,7 @@ Tick off each day as you complete it. One ✅ per day keeps the momentum going.
 - [x] Mon 08 Jun — DSA: Two Sum
 - [x] Tue 09 Jun — DSA: Group Anagram
 - [x] Wed 10 Jun — DSA: Top K Frequent Elements
-- [ ] Thu 11 Jun — DSA: Group Anagrams
+- [x] Thu 11 Jun — DSA: Encode & Decode Strings
 - [ ] Fri 12 Jun — DSA: Top K Frequent Elements
 
 ## Week 2 — Phase 1 · Foundation
