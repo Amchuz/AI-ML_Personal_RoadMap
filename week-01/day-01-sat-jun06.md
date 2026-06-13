@@ -33,6 +33,8 @@ Stretch, water, look outside. 15 minutes. No screens.
 **Resource:** course.fast.ai/Lessons/lesson1.html
 
 Image classifier, Kaggle setup, Gradio, top-down approach. Take notes.
+[Practical Deep Learning for Coders: Lesson 1](https://www.youtube.com/watch?v=8SF_h3xF3cE)
+
 
 ### My notes from this session
 ```
@@ -53,12 +55,6 @@ Walk around PG, light snack. 30 minutes.
 
 Train the image classifier on your own photos. See it work end-to-end.
 
-### What I built / ran
-```
-(paste code snippet or describe what you implemented)
-```
-
----
 
 ## ⏸️ 1:15 – 2:00 pm · Lunch Break
 Proper meal. Sit down. Rest. 45 minutes.
@@ -73,9 +69,9 @@ Proper meal. Sit down. Rest. 45 minutes.
 Create LeetCode, GitHub, HF accounts. pip install langchain. Run a basic chain.
 
 ### Progress made
-```
-refer the colab details here: https://github.com/Amchuz/AI-ML_Personal_RoadMap/blob/main/week-01/day-01-and-02.ipynb
-```
+
+refer the colab details here: [Colab Notes](https://github.com/Amchuz/AI-ML_Personal_RoadMap/blob/main/week-01/day-01-and-02.ipynb)
+
 
 ---
 
