@@ -66,7 +66,7 @@ Proper meal, 45 min rest.
 ## 🟠 2:00 – 3:00 pm · Block 4 · PROJECT
 
 **LangChain: complete Lessons 3–4. Build a Q&A chain over a document.**
-→ learn.deeplearning.ai/courses/langchain
+→ [learn.deeplearning.ai/courses/langchain](https://learn.deeplearning.ai/courses/langchain)
 
 Load a document, create retriever, answer 5 questions from your IBM domain.
 
