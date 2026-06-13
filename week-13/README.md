@@ -1,30 +1,26 @@
 # Week 13 — Aug 29 to Sep 04, 2026
+**MCP + System Design**
 
-**Phase 3 · MCP + System Design**
+## This week's focus
+- **DSA (9:30am weekdays):** LC #63–67 · Dynamic Programming
+- **Saturday deep sessions:** fast.ai L8 CNNs · fast.ai L6+L7 · fast.ai Ethics · LLM Evals (Hamel) · Project 3 scaffold
 
-## Overview
-Watch fast.ai L8 — final fast.ai lesson. Build your first MCP server with 1 tool.
+## Days this week
+- [Sat 29 Aug](./day-085-sat-aug29.md)
+- [Sun 30 Aug](./day-086-sun-aug30.md)
+- [Mon 31 Aug](./day-087-mon-aug31.md)
+- [Tue 01 Sep](./day-088-tue-sep01.md)
+- [Wed 02 Sep](./day-089-wed-sep02.md)
+- [Thu 03 Sep](./day-090-thu-sep03.md)
+- [Fri 04 Sep](./day-091-fri-sep04.md)
 
-## This Week's Focus
-- **DSA (9:30am weekdays):** LC #66–68 · Dynamic Programming basics
-- **Saturday deep sessions:** fast.ai L8 CNNs (Sat B2) · conv nets Colab (Sat B3) · MCP server scaffold (Sat B4)
-
-## Days This Week
-- [Saturday 29 Aug](./day-85-sat-aug29.md)
-- [Sunday 30 Aug](./day-86-sun-aug30.md)
-- [Monday 31 Aug](./day-87-mon-aug31.md)
-- [Tuesday 01 Sep](./day-88-tue-sep01.md)
-- [Wednesday 02 Sep](./day-89-wed-sep02.md)
-- [Thursday 03 Sep](./day-90-thu-sep03.md)
-- [Friday 04 Sep](./day-91-fri-sep04.md)
-
-## End-of-Week Checklist
-- [ ] All weekday DSA problems attempted
-- [ ] Saturday Block 2 video watched in full
+## End-of-week checklist
+- [ ] All weekday DSA problems attempted and submitted on LeetCode
+- [ ] Saturday Block 2 video/reading completed
 - [ ] Saturday Block 3 Colab code pushed to GitHub
 - [ ] GitHub commit pushed with this week's work
-- [ ] Notes written: what did you learn this week?
-- [ ] Monday's problem written in notebook: ready for 9:30am
+- [ ] Notes written: what did I learn this week?
+- [ ] Monday's problem written in notebook
 
 ---
 *← [Back to main README](../README.md)*

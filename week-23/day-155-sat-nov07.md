@@ -1,109 +1,103 @@
 # Saturday, 07 November 2026 · Day 155
-
-**Week 23 · Phase 4 · Mock Interviews + Applications**
+**Week 23 · Applications**
 
 ---
 
 ## 🔴 9:30 – 10:30 am · Block 1 · DSA
 
-**Problem 1:** [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) — `youtu.be/9z2BunfoZ5Y`
-**Problem 2:** [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) — `youtu.be/y704fEOx0s0`
+**#155 Power of Two** + **#156 Power of Two**
 
-Set a 45 min timer per problem. No hints. Watch NeetCode explanation after.
+1. Open NeetCode → neetcode.io/practice
+2. **#155 Power of Two** — 45 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
+3. **#156 Power of Two** — 45 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
 
-### Problem 1 approach
+### #155 — my approach
 ```
 ```
-### Problem 2 approach
+### #156 — my approach
 ```
 ```
 
 ---
 
 ## ⏸️ 10:30 – 10:45 am · Break
-Stretch, water, look outside. 15 minutes. No screens.
+Stretch, water, 15 min.
 
 ---
 
 ## 🔵 10:45 – 11:45 am · Block 2 · LEARN
 
-**Pramp mock coding interview #3**
-**Resource:** pramp.com
+**Pramp mock coding interview #3.**
+→ pramp.com
 
-Focus: time management. Google-style problems. Clean code. No syntax errors.
+Focus: time management. Google-style. Clean code, no syntax errors.
 
-### My notes from this session
+### My notes
 ```
-(write key takeaways here)
+(key takeaways from this session)
 ```
 
 ---
 
 ## ⏸️ 11:45 am – 12:15 pm · Break
-Walk around PG, light snack. 30 minutes.
+Walk, snack, 30 min.
 
 ---
 
 ## 🟡 12:15 – 1:15 pm · Block 3 · BUILD
 
-**Write STAR stories 11-15**
+**Write STAR stories 11–15.**
+→ 
 
-
-Topics: innovation, production incident, technical decision, influence without authority, learning.
+Topics: production incident, technical decision, learning from failure, customer impact.
 
 ### What I built / ran
 ```
-(paste code snippet or describe what you implemented)
+(describe or paste snippet)
 ```
 
 ---
 
-## ⏸️ 1:15 – 2:00 pm · Lunch Break
-Proper meal. Sit down. Rest. 45 minutes.
+## ⏸️ 1:15 – 2:00 pm · Lunch
+Proper meal, 45 min rest.
 
 ---
 
 ## 🟠 2:00 – 3:00 pm · Block 4 · PROJECT
 
-**Apply to Google CCAI Consultant Bangalore**
-**Resource:** google.com/about/careers/applications
+**Apply to Google CCAI Consultant Bangalore.**
+→ google.com/about/careers/applications
 
-Mention: Dialogflow CX, RAGAS-evaluated RAG, LangGraph+MCP. Send 2 Google LinkedIn referrals.
+Mention Dialogflow CX, RAGAS-evaluated RAG, LangGraph+MCP. Send 2 LinkedIn referrals.
 
-### Progress made
+### Progress
 ```
-(describe what you completed)
+(what I completed)
 ```
 
 ---
 
 ## ⏸️ 3:00 – 3:15 pm · Break
-Stretch, water. 15 minutes.
+Stretch, 15 min.
 
 ---
 
 ## 🟢 3:15 – 4:15 pm · Block 5 · REVIEW + GITHUB
 
-**Push all to GitHub**
-**Open:** github.com
+**Customise STAR stories for Amazon 14 LPs.**
+→ amazon.jobs/content/en/our-workplace/leadership-principles
 
-Commit: "Week 23 - all 15 STAR stories + applications submitted". Write week reflection.
+One LP framing per story. This is your Amazon interview prep.
 
-### GitHub commit message used
+### GitHub commit message
 ```
-(paste your commit message)
-```
-
-### What I learned this Saturday
-```
-(2–3 sentences)
+(paste here)
 ```
 
 ---
 
 ## 🎉 4:15 pm onwards · FREE
-Rest of Saturday is free. Walk, relax, recharge.
+Rest of Saturday is yours.
 
 ---
-
-*← [Back to Week 23](./README.md)*
+*← [Week 23 README](./README.md)*

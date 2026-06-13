@@ -1,20 +1,20 @@
 # Saturday, 14 November 2026 · Day 162
-
-**Week 24 · REST WEEKEND 🟢**
+**Week 24 · 🟢 REST WEEKEND**
 
 ---
 
 ## 🔴 9:30 – 10:30 am · Block 1 · DSA
 
-**Problem 1:** [Course Schedule](https://leetcode.com/problems/course-schedule) — `youtu.be/EgI5nU9etnU`
-**Problem 2:** [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) — `youtu.be/Akt3glAwyfY`
+**#162 Power of Two** + **#163 Power of Two**
 
-Set a 45 min timer per problem. Attempt without hints. Watch NeetCode after.
+1. Open NeetCode → neetcode.io/practice
+2. #162 Power of Two — 45 min timer, attempt alone, watch NeetCode explanation, submit on LeetCode
+3. #163 Power of Two — 45 min timer, attempt alone, watch NeetCode explanation, submit on LeetCode
 
-### Problem 1 approach
+### #162 approach
 ```
 ```
-### Problem 2 approach
+### #163 approach
 ```
 ```
 
@@ -22,11 +22,7 @@ Set a 45 min timer per problem. Attempt without hints. Watch NeetCode after.
 
 ## 🟢 REST WEEKEND
 
-After church and breakfast — the rest of Saturday is **completely free**.
+After church and breakfast — **the rest of Saturday is completely free.**
+No study blocks. Walk, rest, family time. You earned this.
 
-No study blocks. No Colab. No GitHub pressure.
-Walk, rest, call family. You have earned this. See you Monday at 9:30am.
-
----
-
-*← [Back to Week 24](./README.md)*
+*← [Week 24 README](./README.md)*

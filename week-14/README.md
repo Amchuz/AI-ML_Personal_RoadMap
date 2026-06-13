@@ -1,30 +1,26 @@
 # Week 14 — Sep 05 to Sep 11, 2026
+**MCP + System Design**
 
-**Phase 3 · MCP + System Design**
+## This week's focus
+- **DSA (9:30am weekdays):** LC #68–72 · Dynamic Programming
+- **Saturday deep sessions:** MCP server BUILT from scratch · Prompt engineering Colab · Whisper + Chip Huyen serving
 
-## Overview
-Build MCP server with 2 tools. Build Whisper ASR demo — bridges your IBM STT/TTS work to modern stack.
+## Days this week
+- [Sat 05 Sep](./day-092-sat-sep05.md)
+- [Sun 06 Sep](./day-093-sun-sep06.md)
+- [Mon 07 Sep](./day-094-mon-sep07.md)
+- [Tue 08 Sep](./day-095-tue-sep08.md)
+- [Wed 09 Sep](./day-096-wed-sep09.md)
+- [Thu 10 Sep](./day-097-thu-sep10.md)
+- [Fri 11 Sep](./day-098-fri-sep11.md)
 
-## This Week's Focus
-- **DSA (9:30am weekdays):** LC #69–71 · Dynamic Programming
-- **Saturday deep sessions:** HF MCP Unit 0+1 (Sat B2) · Whisper ASR demo (Sat B3) · MCP 2nd tool (Sat B4)
-
-## Days This Week
-- [Saturday 05 Sep](./day-92-sat-sep05.md)
-- [Sunday 06 Sep](./day-93-sun-sep06.md)
-- [Monday 07 Sep](./day-94-mon-sep07.md)
-- [Tuesday 08 Sep](./day-95-tue-sep08.md)
-- [Wednesday 09 Sep](./day-96-wed-sep09.md)
-- [Thursday 10 Sep](./day-97-thu-sep10.md)
-- [Friday 11 Sep](./day-98-fri-sep11.md)
-
-## End-of-Week Checklist
-- [ ] All weekday DSA problems attempted
-- [ ] Saturday Block 2 video watched in full
+## End-of-week checklist
+- [ ] All weekday DSA problems attempted and submitted on LeetCode
+- [ ] Saturday Block 2 video/reading completed
 - [ ] Saturday Block 3 Colab code pushed to GitHub
 - [ ] GitHub commit pushed with this week's work
-- [ ] Notes written: what did you learn this week?
-- [ ] Monday's problem written in notebook: ready for 9:30am
+- [ ] Notes written: what did I learn this week?
+- [ ] Monday's problem written in notebook
 
 ---
 *← [Back to main README](../README.md)*

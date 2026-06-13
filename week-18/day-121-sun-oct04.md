@@ -1,53 +1,51 @@
 # Sunday, 04 October 2026 · Day 121
-
-**Week 18 · Phase 3 · MCP + System Design**
+**Week 18 · MCP + System Design**
 
 ---
 
 ## 🔴 11:00 am – 12:00 pm · Block 1 · DSA REVIEW
 
-**Re-solve from memory:** [Kth Largest in Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
-NeetCode: `youtu.be/XEmy13g1Qxc`
+**Re-solve #120 Power of Two from memory**
+→ neetcode.io/practice
 
-Solve without looking at your previous notes. Write the approach below.
-Can you explain it in 3 sentences to a beginner?
+Solve without looking at notes. Can you explain the approach in 3 sentences?
 
 ### My solution (from memory)
-```
-```
-### 3-sentence explanation
 ```
 ```
 
 ---
 
 ## ⏸️ 12:00 – 12:20 pm · Break
-Stretch, water, breathe. 20 minutes.
+Stretch, water, 20 min.
 
+---
 
 ## 🔵 12:20 – 1:20 pm · Block 2 · LEARN
-**Chip Huyen blog: Real-time Machine Learning**
-**Resource:** huyenchip.com/blog
 
-What makes production ML hard. Feature stores, online learning, latency.
+**Open-source LLM landscape: DeepSeek-R1, Mistral, LLaMA 3, Gemma.**
+→ huggingface.co/models
+
+Browse HF models leaderboard. Understand: when open-source beats proprietary (privacy, cost, customisation, no API limits). DeepSeek-R1 = free, MIT, matches o1. Mistral = fast, efficient. LLaMA 3 = Meta, excellent base model.
 
 ### My notes
 ```
-(write key takeaways)
+(key takeaways)
 ```
 
 ---
 
 ## ⏸️ 1:20 – 2:00 pm · Lunch
-Proper rest. No screens. 40 minutes.
+Rest, no screens, 40 min.
 
 ---
 
 ## 🟡 2:00 – 3:00 pm · Block 3 · BUILD
-**Write system design Q5-Q6**
+
+**Write system design answer: 'Design a real-time monitoring system' (45 min).**
 
 
-Q5: "Design a recommendation engine." Q6: "Design an A/B testing platform for ML." 45 min each.
+Cover: feature drift, data drift, alerting, response. Use Evidently AI knowledge.
 
 ### What I built / practiced
 ```
@@ -56,15 +54,15 @@ Q5: "Design a recommendation engine." Q6: "Design an A/B testing platform for ML
 ---
 
 ## ⏸️ 3:00 – 3:20 pm · Break
-Walk outside or around PG. 20 minutes.
+Walk outside, 20 min.
 
 ---
 
 ## 🟢 3:20 – 4:20 pm · Block 4 · PLAN + GITHUB
-1. Push all this week's work to GitHub with a commit message.
-2. Write tomorrow's problem in your notebook: **Kth Largest in Array**
+
+1. Push all this week's code to GitHub with a clear commit message
+2. Write tomorrow's problem in your notebook: **#122 Power of Two**
 3. What will you study next Saturday Block 2? Write it down.
-4. Did you complete this week's checklist? See [Week README](./README.md).
 
 ### GitHub commit message
 ```
@@ -74,8 +72,7 @@ Walk outside or around PG. 20 minutes.
 ---
 
 ## 🎉 4:20 pm onwards · Free Afternoon
-Rest completely. Family, walk, relax. Sleep by 10:30pm.
+Rest completely. Sleep by 10:30pm.
 
 ---
-
-*← [Back to Week 18](./README.md)*
+*← [Week 18 README](./README.md)*

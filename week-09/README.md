@@ -1,30 +1,26 @@
 # Week 09 — Aug 01 to Aug 07, 2026
+**LLM Engineering**
 
-**Phase 2 · LLM Engineering**
+## This week's focus
+- **DSA (9:30am weekdays):** LC #43–49 · Graphs + Backtracking
+- **Saturday deep sessions:** HF NLP Ch.6 Tokenisers · FastAPI /predict · Calibration StatQuest · Time-series Prophet/ARIMA
 
-## Overview
-Deep dive into tokenisers. Add FastAPI /predict endpoint to Intent Classifier. Full-stack ML evidence.
+## Days this week
+- [Sat 01 Aug](./day-057-sat-aug01.md)
+- [Sun 02 Aug](./day-058-sun-aug02.md)
+- [Mon 03 Aug](./day-059-mon-aug03.md)
+- [Tue 04 Aug](./day-060-tue-aug04.md)
+- [Wed 05 Aug](./day-061-wed-aug05.md)
+- [Thu 06 Aug](./day-062-thu-aug06.md)
+- [Fri 07 Aug](./day-063-fri-aug07.md)
 
-## This Week's Focus
-- **DSA (9:30am weekdays):** LC #48–53 · Graphs + Backtracking
-- **Saturday deep sessions:** HF NLP Ch.6 Tokenisers (Sat B2) · LoRA adapter Colab (Sat B3) · FastAPI endpoint (Sat B4)
-
-## Days This Week
-- [Saturday 01 Aug](./day-57-sat-aug01.md)
-- [Sunday 02 Aug](./day-58-sun-aug02.md)
-- [Monday 03 Aug](./day-59-mon-aug03.md)
-- [Tuesday 04 Aug](./day-60-tue-aug04.md)
-- [Wednesday 05 Aug](./day-61-wed-aug05.md)
-- [Thursday 06 Aug](./day-62-thu-aug06.md)
-- [Friday 07 Aug](./day-63-fri-aug07.md)
-
-## End-of-Week Checklist
-- [ ] All weekday DSA problems attempted
-- [ ] Saturday Block 2 video watched in full
+## End-of-week checklist
+- [ ] All weekday DSA problems attempted and submitted on LeetCode
+- [ ] Saturday Block 2 video/reading completed
 - [ ] Saturday Block 3 Colab code pushed to GitHub
 - [ ] GitHub commit pushed with this week's work
-- [ ] Notes written: what did you learn this week?
-- [ ] Monday's problem written in notebook: ready for 9:30am
+- [ ] Notes written: what did I learn this week?
+- [ ] Monday's problem written in notebook
 
 ---
 *← [Back to main README](../README.md)*

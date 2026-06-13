@@ -1,6 +1,6 @@
 # 🎯 AI/ML Engineering Journey
 
-> **June 6, 2026 → December 20, 2026 · 28 weeks · 198 days**
+> **June 6, 2026 → January 24, 2027 · 34 weeks · 233 days**
 
 ---
 
@@ -126,7 +126,7 @@ The plan covers everything MAANG AI/ML interviews test in 2026:
 AI-ML_Personal_RoadMap/
 ├── README.md                    ← You are here
 ├── progress.md                  ← Daily tick-off log
-├── week-01/ to week-28/         ← Per-week folders
+├── week-01/ to week-34/         ← Per-week folders
 │   ├── README.md                ← Week overview
 │   └── day-XX-*.md              ← Per-day task files
 ├── projects/
@@ -157,5 +157,5 @@ AI-ML_Personal_RoadMap/
 
 ---
 
-*Started: June 6, 2026 · Goal: First MAANG offer by December 20, 2026*
+*Started: June 6, 2026 · Goal: First MAANG offer by January 24, 2027*
 *God's grace and discipline together. 🙏*

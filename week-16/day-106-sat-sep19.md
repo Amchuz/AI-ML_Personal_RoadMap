@@ -1,20 +1,20 @@
 # Saturday, 19 September 2026 · Day 106
-
-**Week 16 · REST WEEKEND 🟢**
+**Week 16 · 🟢 REST WEEKEND**
 
 ---
 
 ## 🔴 9:30 – 10:30 am · Block 1 · DSA
 
-**Problem 1:** [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) — `youtu.be/QfJsau0ItOY`
-**Problem 2:** [Same Tree](https://leetcode.com/problems/same-tree) — `youtu.be/vRbbcKXCxOw`
+**#106 Power of Two** + **#107 Power of Two**
 
-Set a 30 min timer per problem. Attempt without hints. Watch NeetCode after.
+1. Open NeetCode → neetcode.io/practice
+2. #106 Power of Two — 30 min timer, attempt alone, watch NeetCode explanation, submit on LeetCode
+3. #107 Power of Two — 30 min timer, attempt alone, watch NeetCode explanation, submit on LeetCode
 
-### Problem 1 approach
+### #106 approach
 ```
 ```
-### Problem 2 approach
+### #107 approach
 ```
 ```
 
@@ -22,11 +22,7 @@ Set a 30 min timer per problem. Attempt without hints. Watch NeetCode after.
 
 ## 🟢 REST WEEKEND
 
-After church and breakfast — the rest of Saturday is **completely free**.
+After church and breakfast — **the rest of Saturday is completely free.**
+No study blocks. Walk, rest, family time. You earned this.
 
-No study blocks. No Colab. No GitHub pressure.
-Walk, rest, call family. You have earned this. See you Monday at 9:30am.
-
----
-
-*← [Back to Week 16](./README.md)*
+*← [Week 16 README](./README.md)*

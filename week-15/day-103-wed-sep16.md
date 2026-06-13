@@ -1,31 +1,28 @@
 # Wednesday, 16 September 2026 · Day 103
-
-**Week 15 · Phase 3 · MCP + System Design**
+**Week 15 · MCP + System Design**
 
 ---
 
 ## 🔴 9:30 – 10:30 am · DSA
 
-**Problem:** [Rotate Image](https://leetcode.com/problems/rotate-image)
-**Pattern:** Math & Geometry
+**Problem #103 — Power of Two**
 
 ### Steps
-1. Open LeetCode: `leetcode.com/problems/rotate-image`
-2. Set a **25 min timer** — attempt alone, no hints
-3. After timer: watch NeetCode explanation → `youtu.be/fMSJSS7eO1w`
-4. Write your approach in 2–3 lines below
+1. Open NeetCode → find **#103 Power of Two** → neetcode.io/practice
+2. Set **25 min timer** — attempt alone, no hints
+3. After timer: watch NeetCode video explanation on the same page
+4. Submit on LeetCode to build your profile → leetcode.com/problems/power-of-two
+5. Write your approach in 2–3 lines below
 
-### My Solution Approach
+### My approach
 ```
-(write here after solving)
+(write here)
 ```
 
 ### What I learned
 ```
-(write after watching the explanation)
+(write after watching explanation)
 ```
-
-### ✅ Done? Check off in [progress.md](../progress.md)
 
 ---
 
@@ -33,5 +30,4 @@
 **Free — eat with colleagues. No study.**
 
 ---
-
-*← [Back to Week 15](./README.md)*
+*← [Week 15 README](./README.md)*

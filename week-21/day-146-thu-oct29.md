@@ -1,31 +1,28 @@
 # Thursday, 29 October 2026 · Day 146
-
-**Week 21 · Phase 4 · Mock Interviews + Applications**
+**Week 21 · Applications**
 
 ---
 
 ## 🔴 9:30 – 10:30 am · DSA
 
-**Problem:** [Kth Largest in Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
-**Pattern:** Heaps
+**Problem #146 — Power of Two**
 
 ### Steps
-1. Open LeetCode: `leetcode.com/problems/kth-largest-element-in-an-array`
-2. Set a **45 min timer** — attempt alone, no hints
-3. After timer: watch NeetCode explanation → `youtu.be/XEmy13g1Qxc`
-4. Write your approach in 2–3 lines below
+1. Open NeetCode → find **#146 Power of Two** → neetcode.io/practice
+2. Set **45 min timer** — attempt alone, no hints
+3. After timer: watch NeetCode video explanation on the same page
+4. Submit on LeetCode to build your profile → leetcode.com/problems/power-of-two
+5. Write your approach in 2–3 lines below
 
-### My Solution Approach
+### My approach
 ```
-(write here after solving)
+(write here)
 ```
 
 ### What I learned
 ```
-(write after watching the explanation)
+(write after watching explanation)
 ```
-
-### ✅ Done? Check off in [progress.md](../progress.md)
 
 ---
 
@@ -33,5 +30,4 @@
 **Free — eat with colleagues. No study.**
 
 ---
-
-*← [Back to Week 21](./README.md)*
+*← [Week 21 README](./README.md)*

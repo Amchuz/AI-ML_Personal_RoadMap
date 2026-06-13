@@ -1,109 +1,103 @@
 # Saturday, 19 December 2026 · Day 197
-
-**Week 29 · Phase**
+**Week 29 · **
 
 ---
 
 ## 🔴 9:30 – 10:30 am · Block 1 · DSA
 
-**Problem 1:** [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) — `youtu.be/Y0lT9Fck7qI`
-**Problem 2:** [House Robber](https://leetcode.com/problems/house-robber) — `youtu.be/73r3KWiEvyk`
+**#197 Power of Two** + **#198 Power of Two**
 
-Set a 45 min timer per problem. No hints. Watch NeetCode explanation after.
+1. Open NeetCode → neetcode.io/practice
+2. **#197 Power of Two** — 45 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
+3. **#198 Power of Two** — 45 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
 
-### Problem 1 approach
+### #197 — my approach
 ```
 ```
-### Problem 2 approach
+### #198 — my approach
 ```
 ```
 
 ---
 
 ## ⏸️ 10:30 – 10:45 am · Break
-Stretch, water, look outside. 15 minutes. No screens.
+Stretch, water, 15 min.
 
 ---
 
 ## 🔵 10:45 – 11:45 am · Block 2 · LEARN
 
-**Continue this week's main learning resource**
+**Study**
+→ 
 
 
-Watch or read the assigned material in full. Take notes.
 
-### My notes from this session
+### My notes
 ```
-(write key takeaways here)
+(key takeaways from this session)
 ```
 
 ---
 
 ## ⏸️ 11:45 am – 12:15 pm · Break
-Walk around PG, light snack. 30 minutes.
+Walk, snack, 30 min.
 
 ---
 
 ## 🟡 12:15 – 1:15 pm · Block 3 · BUILD
 
-**Hands-on Colab — implement what you studied**
-**Open:** colab.research.google.com
+**Build**
+→ colab.research.google.com
 
-Open Google Colab. Run the code from today's video/reading.
+
 
 ### What I built / ran
 ```
-(paste code snippet or describe what you implemented)
+(describe or paste snippet)
 ```
 
 ---
 
-## ⏸️ 1:15 – 2:00 pm · Lunch Break
-Proper meal. Sit down. Rest. 45 minutes.
+## ⏸️ 1:15 – 2:00 pm · Lunch
+Proper meal, 45 min rest.
 
 ---
 
 ## 🟠 2:00 – 3:00 pm · Block 4 · PROJECT
 
-**Continue your project work**
-**Resource:** colab.research.google.com
+**Project**
 
-Work on whichever project is active this phase.
 
-### Progress made
+
+
+### Progress
 ```
-(describe what you completed)
+(what I completed)
 ```
 
 ---
 
 ## ⏸️ 3:00 – 3:15 pm · Break
-Stretch, water. 15 minutes.
+Stretch, 15 min.
 
 ---
 
 ## 🟢 3:15 – 4:15 pm · Block 5 · REVIEW + GITHUB
 
-**Push to GitHub**
-**Open:** github.com
+**GitHub push**
+→ github.com
 
-Commit with a clear message. Update README if needed.
 
-### GitHub commit message used
-```
-(paste your commit message)
-```
 
-### What I learned this Saturday
+### GitHub commit message
 ```
-(2–3 sentences)
+(paste here)
 ```
 
 ---
 
 ## 🎉 4:15 pm onwards · FREE
-Rest of Saturday is free. Walk, relax, recharge.
+Rest of Saturday is yours.
 
 ---
-
-*← [Back to Week 29](./README.md)*
+*← [Week 29 README](./README.md)*

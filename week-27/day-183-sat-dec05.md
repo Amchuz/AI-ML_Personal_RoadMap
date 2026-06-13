@@ -1,109 +1,103 @@
 # Saturday, 05 December 2026 · Day 183
-
-**Week 27 · Phase 4 · Mock Interviews + Applications**
+**Week 27 · Applications**
 
 ---
 
 ## 🔴 9:30 – 10:30 am · Block 1 · DSA
 
-**Problem 1:** [Word Search](https://leetcode.com/problems/word-search) — `youtu.be/pfiQ_PS1g8E`
-**Problem 2:** [K Closest Points](https://leetcode.com/problems/k-closest-points-to-origin) — `youtu.be/rI2EBUEMfTk`
+**#183 Power of Two** + **#184 Power of Two**
 
-Set a 45 min timer per problem. No hints. Watch NeetCode explanation after.
+1. Open NeetCode → neetcode.io/practice
+2. **#183 Power of Two** — 45 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
+3. **#184 Power of Two** — 45 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
 
-### Problem 1 approach
+### #183 — my approach
 ```
 ```
-### Problem 2 approach
+### #184 — my approach
 ```
 ```
 
 ---
 
 ## ⏸️ 10:30 – 10:45 am · Break
-Stretch, water, look outside. 15 minutes. No screens.
+Stretch, water, 15 min.
 
 ---
 
 ## 🔵 10:45 – 11:45 am · Block 2 · LEARN
 
-**Pramp mock #6**
-**Resource:** pramp.com
+**Pramp mock coding interview #6.**
+→ pramp.com
 
-Amazon-style + Leadership Principles. Answer every question with LP framing.
+Amazon-style + Leadership Principles. Think trade-offs at scale.
 
-### My notes from this session
+### My notes
 ```
-(write key takeaways here)
+(key takeaways from this session)
 ```
 
 ---
 
 ## ⏸️ 11:45 am – 12:15 pm · Break
-Walk around PG, light snack. 30 minutes.
+Walk, snack, 30 min.
 
 ---
 
 ## 🟡 12:15 – 1:15 pm · Block 3 · BUILD
 
-**Company deep prep: Amazon**
-**Open:** amazon.jobs/content/en/our-workplace/leadership-principles
+**Company deep prep: Amazon Alexa + 14 Leadership Principles.**
+→ amazon.jobs/content/en/our-workplace/leadership-principles
 
-Study all 14 LPs. Write one STAR story for each LP. Lex, SageMaker, Alexa overview.
+Write one STAR story per LP. Overview: Lex, SageMaker, Alexa architecture.
 
 ### What I built / ran
 ```
-(paste code snippet or describe what you implemented)
+(describe or paste snippet)
 ```
 
 ---
 
-## ⏸️ 1:15 – 2:00 pm · Lunch Break
-Proper meal. Sit down. Rest. 45 minutes.
+## ⏸️ 1:15 – 2:00 pm · Lunch
+Proper meal, 45 min rest.
 
 ---
 
 ## 🟠 2:00 – 3:00 pm · Block 4 · PROJECT
 
-**Write system design Q17-Q18**
+**Follow up on all applications. Send 2 more LinkedIn referral requests.**
+→ linkedin.com
 
+Any application > 2 weeks old: email recruiter directly.
 
-Q17: "Design an ML experiment tracking system." Q18: "Design a data drift detection pipeline." 45 min each.
-
-### Progress made
+### Progress
 ```
-(describe what you completed)
+(what I completed)
 ```
 
 ---
 
 ## ⏸️ 3:00 – 3:15 pm · Break
-Stretch, water. 15 minutes.
+Stretch, 15 min.
 
 ---
 
 ## 🟢 3:15 – 4:15 pm · Block 5 · REVIEW + GITHUB
 
-**Final project review**
-**Open:** github.com
+**System design #17–18. Final project review.**
+→ github.com
 
-All 3 projects: live? READMEs professional? Demos work from phone? Fix anything rough.
+All 3 projects: demos live? READMEs professional?
 
-### GitHub commit message used
+### GitHub commit message
 ```
-(paste your commit message)
-```
-
-### What I learned this Saturday
-```
-(2–3 sentences)
+(paste here)
 ```
 
 ---
 
 ## 🎉 4:15 pm onwards · FREE
-Rest of Saturday is free. Walk, relax, recharge.
+Rest of Saturday is yours.
 
 ---
-
-*← [Back to Week 27](./README.md)*
+*← [Week 27 README](./README.md)*

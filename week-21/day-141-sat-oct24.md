@@ -1,109 +1,103 @@
 # Saturday, 24 October 2026 · Day 141
-
-**Week 21 · Phase 4 · Mock Interviews + Applications**
+**Week 21 · Applications**
 
 ---
 
 ## 🔴 9:30 – 10:30 am · Block 1 · DSA
 
-**Problem 1:** [Number of Islands](https://leetcode.com/problems/number-of-islands) — `youtu.be/pV2kpPD66nE`
-**Problem 2:** [Max Area of Island](https://leetcode.com/problems/max-area-of-island) — `youtu.be/iJGr1OtmH0c`
+**#141 Power of Two** + **#142 Power of Two**
 
-Set a 45 min timer per problem. No hints. Watch NeetCode explanation after.
+1. Open NeetCode → neetcode.io/practice
+2. **#141 Power of Two** — 45 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
+3. **#142 Power of Two** — 45 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
 
-### Problem 1 approach
+### #141 — my approach
 ```
 ```
-### Problem 2 approach
+### #142 — my approach
 ```
 ```
 
 ---
 
 ## ⏸️ 10:30 – 10:45 am · Break
-Stretch, water, look outside. 15 minutes. No screens.
+Stretch, water, 15 min.
 
 ---
 
 ## 🔵 10:45 – 11:45 am · Block 2 · LEARN
 
-**Pramp mock coding interview #1**
-**Resource:** pramp.com
+**Pramp mock coding interview #1.**
+→ pramp.com
 
-Book and complete. 45 min. Think out loud. Explain approach before coding. Ask for feedback.
+45-min session. Think out loud. Explain approach before coding. Ask for feedback.
 
-### My notes from this session
+### My notes
 ```
-(write key takeaways here)
+(key takeaways from this session)
 ```
 
 ---
 
 ## ⏸️ 11:45 am – 12:15 pm · Break
-Walk around PG, light snack. 30 minutes.
+Walk, snack, 30 min.
 
 ---
 
 ## 🟡 12:15 – 1:15 pm · Block 3 · BUILD
 
-**Write STAR stories 1-5**
+**Write STAR stories 1–5.**
+→ 
 
-
-S→T→A→R format. Topics: delivery, leadership, conflict, failure, innovation. Under 2 min each.
+S→T→A→R. Under 2 min each. Topics: delivery, leadership, conflict, failure, innovation.
 
 ### What I built / ran
 ```
-(paste code snippet or describe what you implemented)
+(describe or paste snippet)
 ```
 
 ---
 
-## ⏸️ 1:15 – 2:00 pm · Lunch Break
-Proper meal. Sit down. Rest. 45 minutes.
+## ⏸️ 1:15 – 2:00 pm · Lunch
+Proper meal, 45 min rest.
 
 ---
 
 ## 🟠 2:00 – 3:00 pm · Block 4 · PROJECT
 
-**Apply to Cognizant CCAI Bangalore**
-**Resource:** careers.cognizant.com
+**Apply to Cognizant CCAI Bangalore.**
+→ careers.cognizant.com
 
-Customise cover: mention Watson, voice bots, healthcare, retail. Include GitHub + HF Spaces links.
+Customise: mention Watson, voice bots, healthcare, retail. Include GitHub + HF Spaces links.
 
-### Progress made
+### Progress
 ```
-(describe what you completed)
+(what I completed)
 ```
 
 ---
 
 ## ⏸️ 3:00 – 3:15 pm · Break
-Stretch, water. 15 minutes.
+Stretch, 15 min.
 
 ---
 
 ## 🟢 3:15 – 4:15 pm · Block 5 · REVIEW + GITHUB
 
-**LinkedIn referrals**
-**Open:** linkedin.com
+**Review all 15 STAR stories. Practice 5 out loud (record on phone).**
+→ 
 
-Send 3 referral requests to MAANG India employees. Personalise each message.
+Listen back. Under 2 min each? Clear result with number? Refine 3 weakest.
 
-### GitHub commit message used
+### GitHub commit message
 ```
-(paste your commit message)
-```
-
-### What I learned this Saturday
-```
-(2–3 sentences)
+(paste here)
 ```
 
 ---
 
 ## 🎉 4:15 pm onwards · FREE
-Rest of Saturday is free. Walk, relax, recharge.
+Rest of Saturday is yours.
 
 ---
-
-*← [Back to Week 21](./README.md)*
+*← [Week 21 README](./README.md)*

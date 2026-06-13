@@ -1,109 +1,103 @@
 # Saturday, 28 November 2026 · Day 176
-
-**Week 26 · Phase 4 · Mock Interviews + Applications**
+**Week 26 · Applications**
 
 ---
 
 ## 🔴 9:30 – 10:30 am · Block 1 · DSA
 
-**Problem 1:** [Combination Sum](https://leetcode.com/problems/combination-sum) — `youtu.be/GBKI9VSKdGg`
-**Problem 2:** [Permutations](https://leetcode.com/problems/permutations) — `youtu.be/s7AvT7cGdSo`
+**#176 Power of Two** + **#177 Power of Two**
 
-Set a 45 min timer per problem. No hints. Watch NeetCode explanation after.
+1. Open NeetCode → neetcode.io/practice
+2. **#176 Power of Two** — 45 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
+3. **#177 Power of Two** — 45 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
 
-### Problem 1 approach
+### #176 — my approach
 ```
 ```
-### Problem 2 approach
+### #177 — my approach
 ```
 ```
 
 ---
 
 ## ⏸️ 10:30 – 10:45 am · Break
-Stretch, water, look outside. 15 minutes. No screens.
+Stretch, water, 15 min.
 
 ---
 
 ## 🔵 10:45 – 11:45 am · Block 2 · LEARN
 
-**Pramp mock #5**
-**Resource:** pramp.com
+**Pramp mock coding interview #5.**
+→ pramp.com
 
 Microsoft-style. Growth mindset framing. Ask clarifying questions first.
 
-### My notes from this session
+### My notes
 ```
-(write key takeaways here)
+(key takeaways from this session)
 ```
 
 ---
 
 ## ⏸️ 11:45 am – 12:15 pm · Break
-Walk around PG, light snack. 30 minutes.
+Walk, snack, 30 min.
 
 ---
 
 ## 🟡 12:15 – 1:15 pm · Block 3 · BUILD
 
-**Company deep prep: Microsoft**
-**Open:** azure.microsoft.com/en-us/products/ai-services
+**Company deep prep: Microsoft Azure AI.**
+→ azure.microsoft.com/en-us/products/ai-services
 
-Study Copilot Studio, Azure AI. Map Watson → Copilot Studio. Write 3 growth mindset examples.
+Study Copilot Studio equivalence to Watson. Write 3 growth mindset examples.
 
 ### What I built / ran
 ```
-(paste code snippet or describe what you implemented)
+(describe or paste snippet)
 ```
 
 ---
 
-## ⏸️ 1:15 – 2:00 pm · Lunch Break
-Proper meal. Sit down. Rest. 45 minutes.
+## ⏸️ 1:15 – 2:00 pm · Lunch
+Proper meal, 45 min rest.
 
 ---
 
 ## 🟠 2:00 – 3:00 pm · Block 4 · PROJECT
 
-**Write system design Q15-Q16**
+**Write system design answer: 'Design a data drift detection system' (45 min).**
 
 
-Q15: "Design a real-time recommendation engine." Q16: "Design a multi-tenant LLM API." 45 min each.
+Cover: feature monitoring, Evidently AI approach, alerting thresholds, response actions.
 
-### Progress made
+### Progress
 ```
-(describe what you completed)
+(what I completed)
 ```
 
 ---
 
 ## ⏸️ 3:00 – 3:15 pm · Break
-Stretch, water. 15 minutes.
+Stretch, 15 min.
 
 ---
 
 ## 🟢 3:15 – 4:15 pm · Block 5 · REVIEW + GITHUB
 
-**Check and confirm interviews**
+**System design #15–16. Confirm interviews scheduled.**
+→ 
 
+If no interview booked: follow up urgently. Confirm date, format, panel.
 
-Any interview scheduled? If not, follow up urgently. Confirm dates, format, panel.
-
-### GitHub commit message used
+### GitHub commit message
 ```
-(paste your commit message)
-```
-
-### What I learned this Saturday
-```
-(2–3 sentences)
+(paste here)
 ```
 
 ---
 
 ## 🎉 4:15 pm onwards · FREE
-Rest of Saturday is free. Walk, relax, recharge.
+Rest of Saturday is yours.
 
 ---
-
-*← [Back to Week 26](./README.md)*
+*← [Week 26 README](./README.md)*

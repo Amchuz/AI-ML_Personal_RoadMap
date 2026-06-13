@@ -1,109 +1,103 @@
 # Saturday, 21 November 2026 · Day 169
-
-**Week 25 · Phase 4 · Mock Interviews + Applications**
+**Week 25 · Applications**
 
 ---
 
 ## 🔴 9:30 – 10:30 am · Block 1 · DSA
 
-**Problem 1:** [Word Ladder](https://leetcode.com/problems/word-ladder) — `youtu.be/h9iTnkgv05E`
-**Problem 2:** [Subsets](https://leetcode.com/problems/subsets) — `youtu.be/REOH22Xwdkk`
+**#169 Power of Two** + **#170 Power of Two**
 
-Set a 45 min timer per problem. No hints. Watch NeetCode explanation after.
+1. Open NeetCode → neetcode.io/practice
+2. **#169 Power of Two** — 45 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
+3. **#170 Power of Two** — 45 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
 
-### Problem 1 approach
+### #169 — my approach
 ```
 ```
-### Problem 2 approach
+### #170 — my approach
 ```
 ```
 
 ---
 
 ## ⏸️ 10:30 – 10:45 am · Break
-Stretch, water, look outside. 15 minutes. No screens.
+Stretch, water, 15 min.
 
 ---
 
 ## 🔵 10:45 – 11:45 am · Block 2 · LEARN
 
-**Pramp mock #4**
-**Resource:** pramp.com
+**Pramp mock coding interview #4.**
+→ pramp.com
 
-Amazon-style. Explain trade-offs out loud. After: write what you would do differently.
+Amazon-style. Explain trade-offs out loud. Write what you would do differently after.
 
-### My notes from this session
+### My notes
 ```
-(write key takeaways here)
+(key takeaways from this session)
 ```
 
 ---
 
 ## ⏸️ 11:45 am – 12:15 pm · Break
-Walk around PG, light snack. 30 minutes.
+Walk, snack, 30 min.
 
 ---
 
 ## 🟡 12:15 – 1:15 pm · Block 3 · BUILD
 
-**Company deep prep: Google**
-**Open:** cloud.google.com/dialogflow
+**Company deep prep: Google CCAI.**
+→ cloud.google.com/dialogflow
 
-Study Dialogflow CX. Map Watson → CCAI. Write 5 Googliness-flavoured STAR examples.
+Study Dialogflow CX. Map Watson experience to CCAI. Write 5 Googliness STAR examples.
 
 ### What I built / ran
 ```
-(paste code snippet or describe what you implemented)
+(describe or paste snippet)
 ```
 
 ---
 
-## ⏸️ 1:15 – 2:00 pm · Lunch Break
-Proper meal. Sit down. Rest. 45 minutes.
+## ⏸️ 1:15 – 2:00 pm · Lunch
+Proper meal, 45 min rest.
 
 ---
 
 ## 🟠 2:00 – 3:00 pm · Block 4 · PROJECT
 
-**Write system design Q13-Q14**
+**Write system design answer: 'Design an LLM evaluation framework' (45 min).**
 
 
-Q13: "Design Google CCAI at scale." Q14: "Design a chatbot evaluation framework." 45 min each.
+Cover: offline evals, golden datasets, LLM-as-judge, CI integration, regression tests.
 
-### Progress made
+### Progress
 ```
-(describe what you completed)
+(what I completed)
 ```
 
 ---
 
 ## ⏸️ 3:00 – 3:15 pm · Break
-Stretch, water. 15 minutes.
+Stretch, 15 min.
 
 ---
 
 ## 🟢 3:15 – 4:15 pm · Block 5 · REVIEW + GITHUB
 
-**Follow up on all applications**
-**Open:** linkedin.com
+**Review interview prep for next week. System design #13–14.**
+→ 
 
-Any application > 2 weeks old: follow up directly. Send 2 more LinkedIn referrals.
+Write both answers timed. Follow up any application > 2 weeks old.
 
-### GitHub commit message used
+### GitHub commit message
 ```
-(paste your commit message)
-```
-
-### What I learned this Saturday
-```
-(2–3 sentences)
+(paste here)
 ```
 
 ---
 
 ## 🎉 4:15 pm onwards · FREE
-Rest of Saturday is free. Walk, relax, recharge.
+Rest of Saturday is yours.
 
 ---
-
-*← [Back to Week 25](./README.md)*
+*← [Week 25 README](./README.md)*

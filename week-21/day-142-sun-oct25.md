@@ -1,53 +1,51 @@
 # Sunday, 25 October 2026 · Day 142
-
-**Week 21 · Phase 4 · Mock Interviews + Applications**
+**Week 21 · Applications**
 
 ---
 
 ## 🔴 11:00 am – 12:00 pm · Block 1 · DSA REVIEW
 
-**Re-solve from memory:** [Kth Largest in Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
-NeetCode: `youtu.be/XEmy13g1Qxc`
+**Re-solve #141 Power of Two from memory**
+→ neetcode.io/practice
 
-Solve without looking at your previous notes. Write the approach below.
-Can you explain it in 3 sentences to a beginner?
+Solve without looking at notes. Can you explain the approach in 3 sentences?
 
 ### My solution (from memory)
-```
-```
-### 3-sentence explanation
 ```
 ```
 
 ---
 
 ## ⏸️ 12:00 – 12:20 pm · Break
-Stretch, water, breathe. 20 minutes.
+Stretch, water, 20 min.
 
+---
 
 ## 🔵 12:20 – 1:20 pm · Block 2 · LEARN
-**Chip Huyen blog: Building LLM Applications for Production**
-**Resource:** huyenchip.com/blog
 
-Evaluation, latency, cost. What separates junior from senior AI engineers.
+**Model landscape: GPT-4o/o3, Claude 3.7/4, Gemini 2.5 — capabilities comparison.**
+→ artificialanalysis.ai
+
+Browse artificialanalysis.ai — independent benchmarks for all major models. Understand context windows, pricing, coding vs reasoning vs multimodal strengths. MAANG interviews ask: 'Which model would you pick for X and why?'
 
 ### My notes
 ```
-(write key takeaways)
+(key takeaways)
 ```
 
 ---
 
 ## ⏸️ 1:20 – 2:00 pm · Lunch
-Proper rest. No screens. 40 minutes.
+Rest, no screens, 40 min.
 
 ---
 
 ## 🟡 2:00 – 3:00 pm · Block 3 · BUILD
-**Practice STAR stories out loud**
+
+**Practice STAR stories out loud — record yourself on phone.**
 
 
-Record yourself on your phone. Listen back. Under 2 minutes? Clear result? Refine weakest 2.
+Record each one. Listen back. Under 2 min? Clear result with number? Refine 3 weakest.
 
 ### What I built / practiced
 ```
@@ -56,15 +54,15 @@ Record yourself on your phone. Listen back. Under 2 minutes? Clear result? Refin
 ---
 
 ## ⏸️ 3:00 – 3:20 pm · Break
-Walk outside or around PG. 20 minutes.
+Walk outside, 20 min.
 
 ---
 
 ## 🟢 3:20 – 4:20 pm · Block 4 · PLAN + GITHUB
-1. Push all this week's work to GitHub with a commit message.
-2. Write tomorrow's problem in your notebook: **Kth Largest in Array**
+
+1. Push all this week's code to GitHub with a clear commit message
+2. Write tomorrow's problem in your notebook: **#143 Power of Two**
 3. What will you study next Saturday Block 2? Write it down.
-4. Did you complete this week's checklist? See [Week README](./README.md).
 
 ### GitHub commit message
 ```
@@ -74,8 +72,7 @@ Walk outside or around PG. 20 minutes.
 ---
 
 ## 🎉 4:20 pm onwards · Free Afternoon
-Rest completely. Family, walk, relax. Sleep by 10:30pm.
+Rest completely. Sleep by 10:30pm.
 
 ---
-
-*← [Back to Week 21](./README.md)*
+*← [Week 21 README](./README.md)*

@@ -1,109 +1,103 @@
 # Saturday, 03 October 2026 · Day 120
-
-**Week 18 · Phase 3 · MCP + System Design**
+**Week 18 · MCP + System Design**
 
 ---
 
 ## 🔴 9:30 – 10:30 am · Block 1 · DSA
 
-**Problem 1:** [Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) — `youtu.be/d4zLyf32e3I`
-**Problem 2:** [Count Good Nodes](https://leetcode.com/problems/count-good-nodes-in-binary-tree) — `youtu.be/7cp5d5sSBjQ`
+**#120 Power of Two** + **#121 Power of Two**
 
-Set a 30 min timer per problem. No hints. Watch NeetCode explanation after.
+1. Open NeetCode → neetcode.io/practice
+2. **#120 Power of Two** — 30 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
+3. **#121 Power of Two** — 30 min timer, attempt alone, watch explanation, submit: leetcode.com/problems/power-of-two
 
-### Problem 1 approach
+### #120 — my approach
 ```
 ```
-### Problem 2 approach
+### #121 — my approach
 ```
 ```
 
 ---
 
 ## ⏸️ 10:30 – 10:45 am · Break
-Stretch, water, look outside. 15 minutes. No screens.
+Stretch, water, 15 min.
 
 ---
 
 ## 🔵 10:45 – 11:45 am · Block 2 · LEARN
 
-**Watch ByteByteGo: Design a Recommendation System**
-**Resource:** youtube.com/@ByteByteGo
+**Watch ByteByteGo: Design a Recommendation System.**
+→ youtube.com/@ByteByteGo
 
 Collaborative filtering vs content-based. Embedding approach. Cold start problem.
 
-### My notes from this session
+### My notes
 ```
-(write key takeaways here)
+(key takeaways from this session)
 ```
 
 ---
 
 ## ⏸️ 11:45 am – 12:15 pm · Break
-Walk around PG, light snack. 30 minutes.
+Walk, snack, 30 min.
 
 ---
 
 ## 🟡 12:15 – 1:15 pm · Block 3 · BUILD
 
-**Add Evidently AI drift monitoring to Project 2**
-**Open:** evidentlyai.com
+**Add Evidently AI drift monitoring to Project 2.**
+→ evidentlyai.com
 
-pip install evidently. DataDriftReport: train vs simulated production data. Add HTML to repo.
+pip install evidently. DataDriftReport: train vs simulated production data. HTML report in README.
 
 ### What I built / ran
 ```
-(paste code snippet or describe what you implemented)
+(describe or paste snippet)
 ```
 
 ---
 
-## ⏸️ 1:15 – 2:00 pm · Lunch Break
-Proper meal. Sit down. Rest. 45 minutes.
+## ⏸️ 1:15 – 2:00 pm · Lunch
+Proper meal, 45 min rest.
 
 ---
 
 ## 🟠 2:00 – 3:00 pm · Block 4 · PROJECT
 
-**Write system design Q3-Q4 (45 min each)**
+**Read HuggingFace blog: Quantisation — INT8, INT4, GPTQ, AWQ.**
+→ huggingface.co/blog/overview-quantization-transformers
 
+~20 min. What quantisation trades off. When 4-bit vs 8-bit. Directly asked in interviews.
 
-Q3: "Design an intent classifier at scale." Q4: "Design a real-time monitoring system."
-
-### Progress made
+### Progress
 ```
-(describe what you completed)
+(what I completed)
 ```
 
 ---
 
 ## ⏸️ 3:00 – 3:15 pm · Break
-Stretch, water. 15 minutes.
+Stretch, 15 min.
 
 ---
 
 ## 🟢 3:15 – 4:15 pm · Block 5 · REVIEW + GITHUB
 
-**Push to GitHub**
-**Open:** github.com
+**Push Evidently AI drift report to Project 2 repo.**
+→ github.com
 
-Commit: "Week 18 - Evidently drift monitoring + system design Q3-Q4". Update README.
+Commit: 'Week 18 — drift monitoring added'. Screenshot of report in README.
 
-### GitHub commit message used
+### GitHub commit message
 ```
-(paste your commit message)
-```
-
-### What I learned this Saturday
-```
-(2–3 sentences)
+(paste here)
 ```
 
 ---
 
 ## 🎉 4:15 pm onwards · FREE
-Rest of Saturday is free. Walk, relax, recharge.
+Rest of Saturday is yours.
 
 ---
-
-*← [Back to Week 18](./README.md)*
+*← [Week 18 README](./README.md)*
