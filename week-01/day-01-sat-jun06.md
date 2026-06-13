@@ -30,7 +30,7 @@ Stretch, water, look outside. 15 minutes. No screens.
 ## 🔵 10:45 – 11:45 am · Block 2 · LEARN
 
 **Watch fast.ai Lesson 1 in full**
-**Resource:** course.fast.ai/Lessons/lesson1.html
+**Resource:** [course.fast.ai/Lessons/lesson1.html](https://course.fast.ai/Lessons/lesson1.html)
 
 Image classifier, Kaggle setup, Gradio, top-down approach. Take notes.
 [Practical Deep Learning for Coders: Lesson 1](https://www.youtube.com/watch?v=8SF_h3xF3cE)
