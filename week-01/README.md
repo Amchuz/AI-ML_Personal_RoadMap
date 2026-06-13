@@ -19,12 +19,12 @@ Set up LeetCode, GitHub, Google Colab. Train your first image classifier with fa
 - [Friday 12 Jun](./day-07-fri-jun12.md)
 
 ## End-of-Week Checklist
-- [ ] All weekday DSA problems attempted
-- [ ] Saturday Block 2 video watched in full
-- [ ] Saturday Block 3 Colab code pushed to GitHub
-- [ ] GitHub commit pushed with this week's work
-- [ ] Notes written: what did you learn this week?
-- [ ] Monday's problem written in notebook: ready for 9:30am
+- [x] All weekday DSA problems attempted
+- [x] Saturday Block 2 video watched in full
+- [x] Saturday Block 3 Colab code pushed to GitHub
+- [x] GitHub commit pushed with this week's work
+- [x] Notes written: what did you learn this week?
+- [x] Monday's problem written in notebook: ready for 9:30am
 
 ---
 *← [Back to main README](../README.md)*
