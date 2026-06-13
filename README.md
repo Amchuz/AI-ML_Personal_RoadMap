@@ -184,18 +184,6 @@ AI-ML_Personal_RoadMap/
 
 ---
 
-## 🎯 Target Companies
-
-| Company | Role | Target Salary | Apply |
-|---------|------|---------------|-------|
-| Cognizant | Senior Associate — CCAI Bangalore | ₹18–25 LPA | Week 21 |
-| Accenture AI Hub | Senior Analyst | ₹22–32 LPA | Week 21 |
-| Microsoft India | L60–L62 AI Engineer | ₹45–80 LPA | Week 22 |
-| Flipkart / Swiggy | MLE-2 | ₹35–55 LPA | Week 22 |
-| Google India | L4 AI Engineer — CCAI Consultant | ₹55–90 LPA | Week 23 |
-| Amazon India | L5 Applied Scientist | ₹60–120 LPA | Week 23 |
-
----
 
 ## 🗓️ Phase Overview
 
