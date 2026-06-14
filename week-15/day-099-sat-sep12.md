@@ -1,5 +1,5 @@
 # Saturday, 12 September 2026 · Day 99
-**Week 15 · MCP + System Design**
+**Week 15 · Phase 3 · MCP + System Design**
 
 ---
 
@@ -21,7 +21,6 @@
 ---
 
 ## ⏸️ 10:30 – 10:45 am · Break
-Stretch, water, 15 min.
 
 ---
 
@@ -34,32 +33,37 @@ Python MCP server patterns, security, tool definitions. Take notes.
 
 ### My notes
 ```
-(key takeaways from this session)
 ```
 
 ---
 
 ## ⏸️ 11:45 am – 12:15 pm · Break
-Walk, snack, 30 min.
 
 ---
 
 ## 🟡 12:15 – 1:15 pm · Block 3 · BUILD
 
-**Project 3: build full LangGraph + MCP agent flow end-to-end.**
+**Project 3: full agent flow + Tavily web search tool.**
 → colab.research.google.com
 
-User query → LangGraph → MCP tool call → result → response. Test 10 queries. Fix failures.
+pip install tavily-python. Add Tavily web search as a LangGraph tool. Agent can now search the internet in real time. Test: query → web search → MCP tool → synthesised response. Free tier: tavily.com. This makes your live demo far more impressive.
 
-### What I built / ran
+**Tavily setup:**
+```python
+pip install tavily-python
+from tavily import TavilyClient
+client = TavilyClient(api_key="tvly-...")  # free tier at tavily.com
+results = client.search("your query here")
+# Add as a LangGraph tool node
 ```
-(describe or paste snippet)
+
+### What I built
+```
 ```
 
 ---
 
 ## ⏸️ 1:15 – 2:00 pm · Lunch
-Proper meal, 45 min rest.
 
 ---
 
@@ -72,13 +76,11 @@ pip install tenacity. @retry on all MCP tool calls. Set up LangSmith tracing. Sc
 
 ### Progress
 ```
-(what I completed)
 ```
 
 ---
 
 ## ⏸️ 3:00 – 3:15 pm · Break
-Stretch, 15 min.
 
 ---
 
@@ -91,13 +93,12 @@ Commit: 'Project 3 — MCP + LangGraph agent, production-grade'. Test demo from 
 
 ### GitHub commit message
 ```
-(paste here)
+Week 15 — Project 3 MCP+LangGraph agent with Tavily web search deployed
 ```
 
 ---
 
-## 🎉 4:15 pm onwards · FREE
-Rest of Saturday is yours.
+## 🎉 4:15 pm onwards · Free
 
 ---
 *← [Week 15 README](./README.md)*

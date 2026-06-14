@@ -1,6 +1,7 @@
-# 🎯 AI/ML Engineering Journey
+# 🎯 Prify Philip — MAANG AI/ML Engineering Journey
 
 > **June 6, 2026 → January 24, 2027 · 34 weeks · 233 days**
+> IBM Data Scientist → MAANG AI/ML Engineer
 
 ---
 
@@ -17,7 +18,7 @@ Topics covered:
 - **LLM Engineering** — fast.ai L1–8, HuggingFace NLP Ch.5–7, LangChain, LangGraph, MCP, A2A
 - **Fine-tuning** — LoRA, QLoRA, PEFT, DPO, RLHF, instruction tuning, prompting vs fine-tuning
 - **RAG** — FAISS, RAGAS, hybrid search, reranking, GraphRAG, advanced RAG patterns
-- **Agents** — LangGraph, MCP server from scratch, A2A protocol, multi-agent patterns, reflection
+- **Agents** — LangGraph, MCP server from scratch, Tavily web search, A2A protocol, multi-agent patterns, reflection
 - **Production ML** — MLflow, FastAPI, Evidently AI, LangSmith, Tenacity, Docker, HF Hub, vLLM
 - **Serving & Inference** — quantisation (INT8/INT4/GPTQ), KV cache, speculative decoding, vLLM
 - **Observability** — LangSmith tracing, Evidently drift, token monitoring, cost tracking
@@ -63,7 +64,7 @@ Topics covered:
 |---------|-------|--------|
 | [Project 1: RAG Chatbot](./projects/project-1-rag-chatbot/) | LangChain + FAISS + Gradio + RAGAS | ⬜ Building (Week 3–5) |
 | [Project 2: Intent Classifier](./projects/project-2-intent-classifier/) | DistilBERT + LoRA + MLflow + FastAPI + Evidently AI | ⬜ Building (Week 6–10) |
-| [Project 3: MCP + LangGraph Agent](./projects/project-3-mcp--langgraph-agent/) | LangGraph + MCP + FastAPI + LangSmith + Tenacity | ⬜ Building (Week 11–15) |
+| [Project 3: MCP + LangGraph Agent](./projects/project-3-mcp--langgraph-agent/) | LangGraph + MCP + Tavily + FastAPI + LangSmith + Tenacity | ⬜ Building (Week 11–15) |
 
 ---
 
@@ -98,6 +99,7 @@ Topics covered:
 | Tenacity (retries) | tenacity.readthedocs.io | Week 15 |
 | LLMLingua (context compression) | llmlingua.github.io | Week 15 |
 | Mem0 (long-term agent memory) | github.com/mem0ai/mem0 | Week 16 |
+| Tavily (real-time web search for agents) | tavily.com | Week 15 |
 | Instructor (structured outputs) | python.useinstructor.com | Week 9 |
 | vLLM (production LLM serving) | docs.vllm.ai | Week 19 |
 | HF Quantisation overview | huggingface.co/blog/overview-quantization-transformers | Week 18 |
@@ -184,6 +186,18 @@ AI-ML_Personal_RoadMap/
 
 ---
 
+## 🎯 Target Companies
+
+| Company | Role | Target Salary | Apply |
+|---------|------|---------------|-------|
+| Cognizant | Senior Associate — CCAI Bangalore | ₹18–25 LPA | Week 21 |
+| Accenture AI Hub | Senior Analyst | ₹22–32 LPA | Week 21 |
+| Microsoft India | L60–L62 AI Engineer | ₹45–80 LPA | Week 22 |
+| Flipkart / Swiggy | MLE-2 | ₹35–55 LPA | Week 22 |
+| Google India | L4 AI Engineer — CCAI Consultant | ₹55–90 LPA | Week 23 |
+| Amazon India | L5 Applied Scientist | ₹60–120 LPA | Week 23 |
+
+---
 
 ## 🗓️ Phase Overview
 

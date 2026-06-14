@@ -1,5 +1,5 @@
 # Sunday, 13 September 2026 · Day 100
-**Week 15 · MCP + System Design**
+**Week 15 · Phase 3 · MCP + System Design**
 
 ---
 
@@ -8,7 +8,7 @@
 **Re-solve #99 Power of Two from memory**
 → neetcode.io/practice
 
-Solve without looking at notes. Can you explain the approach in 3 sentences?
+Solve without notes. Can you explain it in 3 sentences?
 
 ### My solution (from memory)
 ```
@@ -17,7 +17,6 @@ Solve without looking at notes. Can you explain the approach in 3 sentences?
 ---
 
 ## ⏸️ 12:00 – 12:20 pm · Break
-Stretch, water, 20 min.
 
 ---
 
@@ -30,13 +29,11 @@ Context windows fill up in long conversations. LLMLingua compresses prompts by 4
 
 ### My notes
 ```
-(key takeaways)
 ```
 
 ---
 
 ## ⏸️ 1:20 – 2:00 pm · Lunch
-Rest, no screens, 40 min.
 
 ---
 
@@ -47,32 +44,26 @@ Rest, no screens, 40 min.
 
 Input: text query. Output: agent response + which MCP tool was called. Deploy to HF Spaces.
 
-### What I built / practiced
+### What I built
 ```
 ```
 
 ---
 
 ## ⏸️ 3:00 – 3:20 pm · Break
-Walk outside, 20 min.
 
 ---
 
 ## 🟢 3:20 – 4:20 pm · Block 4 · PLAN + GITHUB
 
-1. Push all this week's code to GitHub with a clear commit message
-2. Write tomorrow's problem in your notebook: **#101 Power of Two**
+1. Push all week 15 work to GitHub
+2. Write tomorrow's problem in notebook: **#101 Power of Two**
 3. What will you study next Saturday Block 2? Write it down.
 
-### GitHub commit message
+### Commit message
 ```
-(paste here)
+Week 15 complete — Project 3 deployed + Tavily web search + MCP Coursera
 ```
-
----
-
-## 🎉 4:20 pm onwards · Free Afternoon
-Rest completely. Sleep by 10:30pm.
 
 ---
 *← [Week 15 README](./README.md)*

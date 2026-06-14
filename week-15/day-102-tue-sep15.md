@@ -1,5 +1,5 @@
 # Tuesday, 15 September 2026 · Day 102
-**Week 15 · MCP + System Design**
+**Week 15 · Phase 3 · MCP + System Design**
 
 ---
 
@@ -7,18 +7,15 @@
 
 **Problem #102 — Power of Two**
 
-### Steps
 1. Open NeetCode → find **#102 Power of Two** → neetcode.io/practice
 2. Set **25 min timer** — attempt alone, no hints
 3. After timer: watch NeetCode video explanation on the same page
-4. Submit on LeetCode to build your profile → leetcode.com/problems/power-of-two
-5. Write your approach in 2–3 lines below
+4. Submit on LeetCode → leetcode.com/problems/power-of-two
 
 ### My approach
 ```
 (write here)
 ```
-
 ### What I learned
 ```
 (write after watching explanation)
