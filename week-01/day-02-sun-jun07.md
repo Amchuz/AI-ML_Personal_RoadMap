@@ -62,9 +62,9 @@ Proper rest. No screens. 40 minutes.
 pip install langchain. Chain 1: prompt→LLM→output. Chain 2: add memory.
 
 ### What I built / practiced
-```
-refer the colab details here: https://github.com/Amchuz/AI-ML_Personal_RoadMap/blob/main/week-01/day-01-and-02.ipynb
-```
+
+refer the colab details here: [colab](https://github.com/Amchuz/AI-ML_Personal_RoadMap/blob/main/week-01/day-01-and-02.ipynb)
+
 
 ---
 
