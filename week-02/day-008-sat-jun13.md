@@ -67,8 +67,11 @@ Proper meal, 45 min rest.
 
 **LangChain: complete Lessons 3–4. Build a Q&A chain over a document.**
 → [learn.deeplearning.ai/courses/langchain](https://learn.deeplearning.ai/courses/langchain)
+<br>
+[Lessons](https://github.com/Amchuz/AI-ML_Personal_RoadMap/blob/main/week-02/LangChain%20for%20LLM%20Application%20Development)
 
 Load a document, create retriever, answer 5 questions from your IBM domain.
+
 
 ### Progress
 ```
