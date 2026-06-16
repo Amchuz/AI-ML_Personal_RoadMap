@@ -16,13 +16,17 @@
 
 ### My approach
 ```
-(write here)
+class Solution(object):
+    def isPalindrome(self, s):
+        s = re.sub(r'[^a-zA-Z0-9]', '', s)
+        if s == '':
+            return True
+        t = s[::-1]
+        if s.lower() == t.lower():
+            return True
+        return False
 ```
 
-### What I learned
-```
-(write after watching explanation)
-```
 
 ---
 
